@@ -223,6 +223,3 @@ If you change the embedding model, rebuild the vector index with `python ingest.
 - Add automated ingestion and document versioning.
 - Improve evaluation with retrieval metrics (Recall@k / MRR) and answer-groundedness checks.
 
-## License
-
-Choose and add a license before making the repository public. If you are unsure, review the implications of common open-source licenses before selecting one.

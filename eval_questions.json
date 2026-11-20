@@ -1,0 +1,21 @@
+[
+  {
+    "question": "How many days of annual leave do full-time employees get?",
+    "expected_source": "leave_policy.md",
+    "expected_keywords": ["24"]
+  },
+  {
+    "question": "When do I need a doctor's note for sick leave?",
+    "expected_source": "leave_policy.md",
+    "expected_keywords": ["3"]
+  },
+  {
+    "question": "How many days a week can I work from home?",
+    "expected_source": "leave_policy.md",
+    "expected_keywords": ["3"]
+  },
+  {
+    "question": "What is the stock option vesting schedule?",
+    "expected_source": null
+  }
+]

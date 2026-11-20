@@ -49,6 +49,10 @@ enterprise-rag-assistant/
 │   └── docs/
 │       └── leave_policy.md       # Fictional sample knowledge-base document
 │
+├── Screenshots/
+│   ├── chat.png
+│   └── home.png
+│
 ├── eval_questions.json          # Example evaluation questions and expected results
 ├── requirements.txt             # Python dependencies
 ├── .env.example                 # Example environment configuration (safe to commit)
